@@ -1,7 +1,7 @@
 # Mini-Wonders in 3D: Promoting craftsmanship from around the world
-Somebody once said that "the sculture is a music, frozen in stone". However, 3D art should not be static!!
+Somebody once said that "the sculpture is a music, frozen in stone". However, 3D art should not be static!!
 
-Where possible, I'll try to embed relevant sounds into my animation shots, and will publish them on YouTube. Enjoy :-)
+Where possible, I'll try to embed relevant sounds into my animation shots, and publish them on YouTube. Enjoy :-)
 
 ## Japan - Katana
 | Model | Description |
