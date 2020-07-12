@@ -1,9 +1,7 @@
-# Blender-MiniWonders3D
-Personal quest to find and re-create in 3D mini-wonders of the world.
+# Mini-Wonders in 3D: Promoting craftsmanship from around the world
+Somebody once said that "the sculture is a music, frozen in stone". However, 3D art should not be static!!
 
-Something that was created by the humans. Something that you can hold in your arms and associate with specific geographies. Something that is deeply unique and provides insight into the life of people of that specific period of time.
-
-Morever, I don't want to make it static. Somebody once said that "the sculture is a music frozen in stone". 3D Art breaks some barriers, so for every model I'll shoot a brief video, enriched with some sounds.
+Where possible, I'll try to embed relevant sounds into my animation shots, and will publish them on YouTube. Enjoy :-)
 
 ## Japan - Katana
 | Model | Description |
