@@ -17,7 +17,7 @@ Nowadays we carve Jack-o’-lantern around the world at Halloween. According to 
 
 
 ## Britain - Guy Fawkes mask
-Nowadays we carve Jack-o’-lantern around the world at Halloween. According to [Wikipedia](https://en.wikipedia.org/wiki/Jack-o%27-lantern), this tradition originated in Ireland and the name itself is linked to the local legend about Stinky Jack, who bargained with Devil and is doomed now to roam the Earth with only a hollowed turnip to light his way. It’s believed that the carved lanterns (made of turnips, pumpkins, etc) help to ward off evil spiris.
+Originally designed by the British illustrator David Lloyd in 1982, it was featured in the comic book series [“V for Vendetta”](https://en.wikipedia.org/wiki/V_for_Vendetta). However, the mask itself has quickly become a symbol of protest movements, adopted by Occupy, Anonymous and other popular groups. Nowadays, the mask is also known by its second name, Anonymous Mask.
 | Model | Description |
 | --- | --- |
-| ![Jack_o_Lantern](/images/Halloween.png) | Learnt the pumpkin carving technique from *TutsByKai* and the procedural flame effects from *CG Patrick*, thanks! <br><br> YouTube link to a 10-sec animation is [here](https://youtu.be/oAx9tpufpcM). Soundtrack is based on the World War Outerspace track by Audio Hertz from YouTube Audio Library. <br><br> **Note:** Model is built in Blender 2.83|
+| ![Anonymous)Mask](/images/Halloween.png) | Learnt the pumpkin carving technique from *TutsByKai* and the procedural flame effects from *CG Patrick*, thanks! <br><br> YouTube link to a 10-sec animation is [here](https://youtu.be/oAx9tpufpcM). Soundtrack is based on the World War Outerspace track by Audio Hertz from YouTube Audio Library. <br><br> **Note:** Model is built in Blender 2.83|
