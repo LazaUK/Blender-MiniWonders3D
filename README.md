@@ -17,7 +17,7 @@ Nowadays we carve Jack-o’-lantern around the world at Halloween. According to 
 
 
 ## Britain - Guy Fawkes mask
-Originally designed by the British illustrator David Lloyd in 1982, it was featured in the comic book series [“V for Vendetta”](https://en.wikipedia.org/wiki/V_for_Vendetta). However, the mask itself has quickly become a symbol of protest movements, adopted by Occupy, Anonymous and other popular groups. Nowadays, the mask is also known by its second name, Anonymous Mask.
+Originally designed by the British illustrator *David Lloyd* in 1982, it was featured in the comic book series [“V for Vendetta”](https://en.wikipedia.org/wiki/V_for_Vendetta). However, the mask itself has quickly become a symbol of protest movements, adopted by Occupy, Anonymous and other popular groups. Nowadays, the mask is also known by its second name, Anonymous Mask.
 | Model | Description |
 | --- | --- |
-| ![Anonymous)Mask](/images/Anonymous_Mask_Static.png) | Learnt the pumpkin carving technique from *TutsByKai* and the procedural flame effects from *CG Patrick*, thanks! <br><br> YouTube link to a 10-sec animation is [here](https://youtu.be/oAx9tpufpcM). Soundtrack is based on the World War Outerspace track by Audio Hertz from YouTube Audio Library. <br><br> **Note:** Model is built in Blender 2.83|
+| ![Anonymous)Mask](/images/Anonymous_Mask_Static.png) | I found very interesting Blender YT tutorial by *Dane Sigua* on how to model Kitsune (Japanese fox mask), and then applied similar technique here to model my Guy Fawkes mask. <br><br> YouTube link to a 10-sec animation is [here](https://youtu.be/TO_BE_UPDATED). Soundtrack is based on the **TO BE UPDATED** from YouTube Audio Library. <br><br> **Note:** Model is built in Blender 2.91|
