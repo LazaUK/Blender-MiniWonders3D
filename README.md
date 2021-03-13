@@ -21,4 +21,4 @@ Originally designed by the British illustrator *David Lloyd* in 1982, it was fea
 | Model | Description |
 | --- | --- |
 | ![Anonymous)Mask](/images/Anonymous_Mask_Static.png) | I found very interesting Blender YT tutorial by *Dane Sigua* on how to model Kitsune (Japanese fox mask), and then applied similar technique here to model my Guy Fawkes mask. <br><br> YouTube link to a 10-sec animation is [here](https://youtu.be/TO_BE_UPDATED). Soundtrack is based on the
-Voices track by  from YouTube Audio Library. <br><br> **Note:** Model is built in Blender 2.91|
+Voices track by Patrick Patrikios from YouTube Audio Library. <br><br> **Note:** Model is built in Blender 2.91|
